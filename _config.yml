@@ -21,7 +21,7 @@ google_analytics_id      : # get google_analytics_id from https://analytics.goog
 
 # Site Author
 author:
-  name   : "Yiwei Zuo(左绎未)"
+  name   : "Yiwei Zuo"
   avatar : "images/android-chrome-512x512.png"
   bio    : "Computer Science and Technology"
   #location         : "Beijing, China"
