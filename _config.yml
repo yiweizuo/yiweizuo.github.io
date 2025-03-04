@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yiwei Zuo(左绎未)"
-description              : "Computer Science and Technology Undergraduate at Beijing Jiaotong University. Research interests in 3D Reconstruction and Embodied AI."
+description              : "Computer Science and Technology Undergraduate at Beijing Jiaotong University. "
 repository               : "YiweiZuo/YiweiZuo.github.io"
 google_scholar_stats_use_cdn : false  # Changed to false since you don't have Google Scholar yet
 
