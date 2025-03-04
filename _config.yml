@@ -23,7 +23,7 @@ google_analytics_id      : # get google_analytics_id from https://analytics.goog
 author:
   name   : "Yiwei Zuo"
   avatar : "images/android-chrome-512x512.png"
-  bio    : "B.Sc. in Computer Science and Technology (2021-2025) @ Beijing Jiaotong University"
+  bio    : "Computer Science and Technology"
   #location         : "Beijing, China"
   # employer         :  # Commented out as not needed yet
   # pubmed           :  # Commented out as not needed yet
