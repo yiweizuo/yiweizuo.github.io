@@ -52,8 +52,5 @@ I am currently an undergraduate student at Beijing Jiaotong University, pursuing
 - *2021.03*, Lorem ipsum dolor sit amet \| [\[video\]](https://github.com/) -->
 
 # 💻 Research Experience
-- *2025.01 - Present*, Research Intern, Shanghai Qi Zhi Institute
-  - PI: Macheng Shen
-
 - *2024.09 - Present*, Research Intern, The Chinese University of Hong Kong, Shenzhen (CUHK-SZ)
   - Advisor: Prof. Xiaoguang Han
