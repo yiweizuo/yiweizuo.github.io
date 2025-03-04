@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently an undergraduate student at Beijing Jiaotong University, pursuing a B.Sc. in Computer Science and Technology. My research interests include 3D Reconstruction and Embodied AI. I am currently conducting research under the guidance of Professor Xiaoguang Han at CUHK(SZ) and PI Macheng Shen at Shanghai Qi Zhi Institute.
+I am currently an undergraduate student at Beijing Jiaotong University, pursuing a B.Sc. in Computer Science and Technology. My research interests include 3D Reconstruction and Embodied AI. I am currently conducting research under the guidance of Professor Xiaoguang Han at CUHK(SZ).
 
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet
