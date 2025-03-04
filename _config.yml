@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yiwei Zuo(左绎未)"
+title                    : "Yiwei Zuo"
 description              : "Computer Science and Technology Undergraduate. "
 repository               : "YiweiZuo/YiweiZuo.github.io"
 google_scholar_stats_use_cdn : false  # Changed to false since you don't have Google Scholar yet
@@ -21,7 +21,7 @@ google_analytics_id      : # get google_analytics_id from https://analytics.goog
 
 # Site Author
 author:
-  name   : "Yiwei Zuo"
+  name   : "Yiwei Zuo(左绎未)"
   avatar : "images/android-chrome-512x512.png"
   bio    : "Computer Science and Technology"
   #location         : "Beijing, China"
