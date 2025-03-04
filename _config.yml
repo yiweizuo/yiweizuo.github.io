@@ -6,57 +6,57 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
-google_scholar_stats_use_cdn : true
+title                    : "Yiwei Zuo(左绎未)"
+description              : "Computer Science and Technology Undergraduate at Beijing Jiaotong University. Research interests in 3D Reconstruction and Embodied AI."
+repository               : "YiweiZuo/YiweiZuo.github.io"
+google_scholar_stats_use_cdn : false  # Changed to false since you don't have Google Scholar yet
 
 # google analytics
-google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      : # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
-google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
-bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
-baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
+# google_site_verification :  # Commented out as not needed yet
+# bing_site_verification   :  # Commented out as not needed yet
+# baidu_site_verification  :  # Commented out as not needed yet
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
-  employer         :
-  pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : # e.g., "github username"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : 
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  name   : "Yiwei Zuo"
+  avatar : "images/android-chrome-512x512.png"
+  bio    : "B.Sc. in Computer Science and Technology (2021-2025) @ Beijing Jiaotong University"
+  #location         : "Beijing, China"
+  # employer         :  # Commented out as not needed yet
+  # pubmed           :  # Commented out as not needed yet
+  # googlescholar    :  # Commented out as not needed yet
+  email            : "ywz659789@gmail.com"
+  # researchgate     :  # Commented out as not needed yet
+  # uri              :  # Commented out as not needed yet
+  # bitbucket        :  # Commented out as not needed yet
+  # codepen          :  # Commented out as not needed yet
+  # dribbble         :  # Commented out as not needed yet
+  # flickr           :  # Commented out as not needed yet
+  # facebook         :  # Commented out as not needed yet
+  # foursquare       :  # Commented out as not needed yet
+  github           : "yiweizuo"
+  # google_plus      :  # Commented out as not needed yet
+  # keybase          :  # Commented out as not needed yet
+  # instagram        :  # Commented out as not needed yet
+  # impactstory      :  # Commented out as not needed yet
+  # lastfm           :  # Commented out as not needed yet
+  # linkedin         :  # Commented out as not needed yet
+  # dblp             :  # Commented out as not needed yet
+  # orcid            :  # Commented out as not needed yet
+  # pinterest        :  # Commented out as not needed yet
+  # soundcloud       :  # Commented out as not needed yet
+  # stackoverflow    :  # Commented out as not needed yet
+  # steam            :  # Commented out as not needed yet
+  # tumblr           :  # Commented out as not needed yet
+  # twitter          :  # Commented out as not needed yet
+  # vine             :  # Commented out as not needed yet
+  # weibo            :  # Commented out as not needed yet
+  # xing             :  # Commented out as not needed yet
+  # youtube          :  # Commented out as not needed yet
+  # wikipedia        :  # Commented out as not needed yet
 
 
 # Reading Files
